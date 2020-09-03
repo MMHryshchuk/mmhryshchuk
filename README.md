@@ -11,9 +11,9 @@
 </div>
 
 
- <p align="center">
-  <h4> System Design | Web Development | Micro Services | Competetive Programming </h4>
-   </p>
+<div align="center">
+  <h4> Vue.js | React.js | React-Native | Node.js  </h4>
+</div>
 
 
 <!--
@@ -50,6 +50,7 @@
   <img src="https://raw.githubusercontent.com/mmhryshchuk/mmhryshchuk/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mmhryshchuk/mmhryshchuk/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">  
   <img src="https://raw.githubusercontent.com/mmhryshchuk/mmhryshchuk/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">  
+  <img src="https://raw.githubusercontent.com/mmhryshchuk/mmhryshchuk/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mmhryshchuk/mmhryshchuk/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mmhryshchuk/mmhryshchuk/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mmhryshchuk/mmhryshchuk/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
